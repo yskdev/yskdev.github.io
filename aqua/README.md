@@ -1,4 +1,4 @@
-# AquariumNotes SupportPage <img src="./AppICON.PNG" width="30">
+# AquariumNotes SupportPage <img src="./AppICON.png" width="30">
 
 
 ## AquariumNotes
